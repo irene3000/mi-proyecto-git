@@ -1,0 +1,35 @@
+SEMANA 0
+video 1 de q esta hecha la web
+terminado
+video 2 terminado
+video 3 terminado
+video 4 terminado
+video 5 terminado
+video 6 terminado
+video 7 terminado
+video 8 
+Ajax: 
+-ver los datos sin q se tenga q actualizar la
+pagina
+- actualiza una pag web sin la necesidad de 
+recargar la pantalla
+video 8 terminado
+video 9 terminado
+video 10 terminado
+video 11 terminado
+leccion  12 terminado
+leccion 13 terminado
+leccion 14 terminado
+
+SEMANA 1
+video 1 terminado
+video 2 terminado
+video 3 terminado
+video 4 terminado
+video 5 terminado
+
+GIT Y GITHUB
+video 1 terminado
+video 2 terminado
+video 3 terminado
+video 4 

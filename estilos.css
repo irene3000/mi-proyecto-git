@@ -1,0 +1,38 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgba(32, 226, 10, 0.719);
+    color: white;
+}
+a{
+    color: inherit;
+}
+.q{
+    text-decoration: none;
+
+}
+li{
+    list-style: none;
+    display: inline;
+    border:  rgb(0, 17, 255) 3px solid;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+main{
+    background-color: aqua;
+    border: slateblue 5px solid;
+}
+h1{
+    background-color: blue;
+    margin-top: 15px;
+    
+}
+section{
+    background-color: aquamarine;
+    padding-bottom: 30px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
