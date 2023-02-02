@@ -35,3 +35,4 @@ video 3 terminado
 video 4 terminado
 video 5 terminado
 video 6 terminado
+video 7 terminado
