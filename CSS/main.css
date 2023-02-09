@@ -1,0 +1,56 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: pink;
+}
+h2{
+    color: brown;
+    font-weight: bold;
+}
+.subtitulo{
+    color: blue;
+}
+#tituloh2{
+    color: coral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+[href]{
+    font-style: italic;
+}
+[href="https://google.com"]{
+    color: orange;
+}
+[href="https://facebook.com"]{
+    color: blue;
+}
+input[disabled]{
+    background-color:greenyellow;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+input:focus{
+    background-color: rgb(223, 179, 179);
+}/*
+ul li:nth-child(even){
+    color: white;
+    background-color: red;
+}
+ul li:nth-child(odd){
+    color: black;
+    background-color: yellow;
+}*/
+ul li:nth-child(3n+2){
+    background-color: violet;
+    color:white;
+}
+ul li:first-child{
+    font-style: italic;
+}
+ul li:last-child{
+    font-weight: bold;
+}

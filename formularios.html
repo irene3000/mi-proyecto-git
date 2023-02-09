@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Formularios</h1>
+    </header>    
+    <main>
+        <hr>
+        <form action="">
+            <label for="nombres">Nombre y Apellidos</label>
+            <input type="text" name="" id="nombres" placeholder="Ej. Juan Perez" required minlength="2" maxlength="10">
+            <br>
+            <label for="edad">Edad</label>
+            <input type="number" name="" id="edad" min="17" max="100">
+            <br>
+            <label for="correo">Correo electrónico</label>
+            <input type="email" name="" id="correo">
+            <br>
+            <label for="contraseña">Contraseña</label>
+            <input type="password" name="" id="contraseña">
+            <br>
+            <label for="">Estado civil</label>
+            <br>
+            <input type="radio" name="estadocivil" id="casado" value="casado">
+            <label for="casado">Casado/a</label>
+            <br>
+            <input type="radio" name="estadocivil" id="soltero" value="conviviente">
+            <label for="soltero">Soltero/a</label>
+            <br>
+            <input type="radio" name="estadocivil" id="conviviente" value="soltero">
+            <label for="conviviente">Conviviente</label>
+            <br>
+            <label for="">Ciudad</label>
+            <select>
+                <option selected disabled>Seleccione una opcion</option>
+                <option value="LIM">Lima</option>
+                <option value="ARE">Arequipa</option>
+                <option value="TRU">Trujillo</option>
+                <option value="CUZ">Cuzco</option>
+            </select>
+            <br>
+            <input type="submit" value="Enviar">
+
+        </form>
+    </main>
+    
+</body>
+</html>

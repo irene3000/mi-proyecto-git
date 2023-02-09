@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p::first-letter{
+            font-size: 44px;
+        }
+        p::first-line{
+            background-color: khaki;
+        }
+        p::before{
+            content: "agregando before";
+        }
+        p::after{
+            content: "agregando after";        
+        }
+        *::selection{
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est illum quae enim culpa autem doloribus animi, ducimus possimus excepturi quidem laborum nihil asperiores fuga voluptatibus amet nemo voluptatum aut itaque.</p>
+</body>
+</html>
