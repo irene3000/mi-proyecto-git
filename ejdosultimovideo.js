@@ -9,4 +9,6 @@ if (ct>2500) {
 
 pf=ct-dcto;
 
-document.write("El precio final es: ",pf,<br></br>,"El dcto es de:" ,dcto);
+document.write('El precio final es: ',pf);
+
+document.write('<br><br><br><br>El dcto es de: ' ,dcto);
